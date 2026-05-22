@@ -1,4 +1,4 @@
-# Hi, I'm Gregory Way <img src="https://raw.githubusercontent.com/WayScience/waysciencelab.com/main/favicons/ios.png" width="36" alt="Way Science Lab icon" align="center">
+# Hi, I'm Gregory Way <img src="https://raw.githubusercontent.com/WayScience/waysciencelab.com/main/favicons/ios.png" width="36" alt="Way Science Lab icon" style="vertical-align:middle">
 
 > **My mission is** to reduce human suffering. We accomplish this using biomedical data science.
 
