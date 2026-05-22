@@ -38,7 +38,12 @@ My lab develops computational methods and open-source software to analyze high-c
 - 🤖 **Machine learning for biology** — models that connect cell morphology to genetic, molecular, and disease states
 - 🛠️ **Open-source software** — reproducible tools that make high-content imaging data accessible to the broader research community
 
-### NF1 organoid imaging — z-stack example
+### NF1 patient-derived organoids — high-content imaging for drug discovery
+
+[Neurofibromatosis Type 1 (NF1)](https://www.nih.gov/news-events/nih-research-matters/understanding-neurofibromatosis-type-1) is a rare genetic disease with significant unmet therapeutic need.
+We use patient-derived organoid models combined with high-content microscopy and machine learning to identify morphological disease signatures and perform high-throughput drug screening — with the goal of enabling **personalized medicine** for NF1 patients.
+
+The z-stack below shows raw fluorescence channels alongside automated segmentation masks for a single NF1 organoid:
 
 <table>
   <thead>
@@ -70,6 +75,8 @@ My lab develops computational methods and open-source software to analyze high-c
     </tr>
   </tbody>
 </table>
+
+→ See the [NF1 organoid profiling pipeline](https://github.com/WayScience/NF1_3D_organoid_profiling_pipeline) for full analysis code and data
 
 ### Underlying hypothesis
 
