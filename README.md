@@ -6,6 +6,7 @@ My research sits at the intersection of **data science**, **machine learning**, 
 
 [![Website](https://img.shields.io/badge/website-waysciencelab.com-4A90D9?style=flat-square&logo=firefox)](https://www.waysciencelab.com)
 [![Cytomining](https://img.shields.io/badge/cytomining-github.io-2E8B57?style=flat-square&logo=github)](https://cytomining.github.io/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=iDKZaA4AAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0503--9348-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0503-9348)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gregoryway-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gregoryway)
 
@@ -15,7 +16,8 @@ My research sits at the intersection of **data science**, **machine learning**, 
 
 - 🔬 **Image-based profiling** — extracting biological signals from microscopy images of cells at scale
 - 🤖 **Machine learning for biology** — building models that connect cell morphology to genetic and disease states
-- 🧬 **Cancer & rare disease** — understanding disease mechanisms and identifying therapeutic targets
+- 🧬 **NF1 personalized medicine** — using patient-derived organoid models and phenotypic drug screening to identify therapeutic candidates for [Neurofibromatosis type 1](https://github.com/WayScience/NF1_3D_organoid_profiling_pipeline); see [publications](https://scholar.google.com/citations?user=iDKZaA4AAAAJ&hl=en)
+- ❤️ **Cardiac fibrosis & pediatric cancer** — _in vitro_ and organoid-based drug screening for diseases with few treatment options
 - 🛠️ **Open-source software** — tools that make high-content imaging data accessible to the broader community
 
 ---
@@ -60,7 +62,21 @@ My research sits at the intersection of **data science**, **machine learning**, 
 ## Community
 
 I contribute to and help maintain the [Cytomining](https://github.com/cytomining) open-source ecosystem, and am a member of the [CytoData](https://www.cytodata.org/) scientific community.
+I also co-founded [Software Gardening](https://software-gardening.github.io) — an ecosystem of applied guidance and tools for sustainable software development and maintenance.
 
 - 💬 Join us on [Discord](https://discord.gg/dgEDz6xzfJ)
 - 🏫 Learn more at [cytodata.org](https://www.cytodata.org/)
 - 🌈 We follow a [Code of Conduct](https://github.com/cytomining/.github/blob/main/CODE_OF_CONDUCT.md)
+
+---
+
+## Funding
+
+This work is generously supported by:
+
+| Funder | Area |
+|--------|------|
+| [Gilbert Family Foundation](https://gilbertfamilyfoundation.org/) | NF1 personalized medicine |
+| [Alex's Lemonade Stand Foundation](https://www.alexslemonade.org/) | Pediatric cancer research |
+| [American Heart Association](https://www.heart.org/) | Cardiac fibrosis |
+| [National Institutes of Health (NIH)](https://www.nih.gov/) | Image-based profiling & methods |
