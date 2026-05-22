@@ -1,8 +1,8 @@
-# Hi, I'm Greg Way <img src="https://raw.githubusercontent.com/WayScience/waysciencelab.com/main/images/default_logo.svg" width="36" alt="Way Science Lab icon" align="center">
+# Hi, I'm Gregory Way <img src="https://raw.githubusercontent.com/WayScience/waysciencelab.com/main/images/default_logo.svg" width="36" alt="Way Science Lab icon" align="center">
 
-> **Mission:** Reduce human suffering through biomedical data science.
+> **My mission is** to reduce human suffering. We accomplish this using biomedical data science.
 
-I'm an Assistant Professor in the [Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi) and a member of the [Center for Health AI](https://medschool.cuanschutz.edu/ai) at the [University of Colorado Anschutz Medical Campus](https://medschool.cuanschutz.edu/), where I lead the [Way Science Lab](https://www.waysciencelab.com).
+I'm an Assistant Professor in the [Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi) and a member of the [Center for Health AI](https://medschool.cuanschutz.edu/ai) at the [University of Colorado Anschutz](https://medschool.cuanschutz.edu/), where I am the Principal Investigator the [Way Science Lab](https://www.waysciencelab.com).
 
 [![Website](https://img.shields.io/badge/website-waysciencelab.com-4A90D9?style=flat-square&logo=firefox)](https://www.waysciencelab.com)
 [![Cytomining](https://img.shields.io/badge/cytomining-github.io-2E8B57?style=flat-square&logo=github)](https://cytomining.github.io/)
@@ -14,7 +14,7 @@ I'm an Assistant Professor in the [Department of Biomedical Informatics](https:/
 
 ## Underlying hypothesis
 
-> Cell morphology encodes disease state. By comparing morphological profiles of healthy (wild-type) cells against diseased cells — for example, identifying the phenotypic signature that distinguishes NF1-null Schwann cells from wild-type — we define **phenotypic targets** to screen against. This approach is complementary to gene-target-based drug discovery, and may better capture where disease actually manifests at the cellular level. We then screen large compound libraries against these phenotypic signatures to find drugs that restore healthy morphology.
+> Cell morphology encodes disease state. By comparing high-content cell morphology profiles of healthy (wild-type) cells against diseased cells — for example, identifying the phenotypic signature that distinguishes NF1-null Schwann cells from wild-type ([Tomkinson et al. 2025](https://doi.org/10.1016/j.ghres.2025.100009)) — we define **phenotypic targets**. This approach is complementary to gene-target-based drug discovery, and may better capture where disease actually manifests at the cellular level. We then screen large compound libraries against these phenotypic targets to find drugs that restore healthy morphology.
 
 ---
 
@@ -26,30 +26,30 @@ I'm an Assistant Professor in the [Department of Biomedical Informatics](https:/
 | 🔬 **Postdoc** | [Imaging Platform](https://www.broadinstitute.org/imaging), [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/) |
 | 🏫 **Faculty** | Assistant Professor, [University of Colorado Anschutz](https://medschool.cuanschutz.edu/dbmi) (2021–present) |
 | 👩‍🔬 **Lab** | Seven scientists spanning data science, AI, machine learning, cell biology, and biomedical informatics |
-| 🎓 **Training** | Mentoring Ph.D. students, postdocs, and undergraduate researchers across disciplines in open science practices |
+| 🎓 **Training** | Mentoring 30+ Ph.D. students, undergraduate, and high-school researchers across disciplines in biomedical data science |
 | 📚 **Teaching** | Developed [CPBS7601](https://github.com/WayScience/CPBS7601) — *Maximizing Reproducibility in Computational Biology* at CU Anschutz |
 | 🌱 **Co-founder** | [Software Gardening](https://software-gardening.github.io) — sustainable software practices for scientific computing |
-| 🔭 **Org lead** | [Cytomining](https://cytomining.github.io/) — open-source ecosystem for image-based profiling |
+| 🔭 **Open source org lead** | [Cytomining](https://cytomining.github.io/) — open-source software tooling for image-based profiling |
 
 ---
 
 ## Research
 
-My lab develops computational methods and open-source software to analyze high-content microscopy images of cells, partnering with collaborators worldwide to extract biological meaning and advance drug discovery. Our disease focus spans:
+My lab develops computational methods and open-source software to analyze high-content microscopy images of cells, partnering with collaborators worldwide to develop innovative assays, extract biological meaning, and advance drug discovery. Our disease focus spans:
 
-- 🧬 **NF1 personalized medicine** — identifying morphological signatures of [Neurofibromatosis Type 1](https://github.com/WayScience/NF1_3D_organoid_profiling_pipeline) and running high-throughput drug screens to find compounds that restore a healthy phenotype; see [publications](https://scholar.google.com/citations?user=iDKZaA4AAAAJ&hl=en)
-- ❤️ **Cardiac fibrosis** — high-throughput drug screening using morphological profiles of cardiac fibroblasts to prioritize therapeutic candidates
-- 🎗️ **Pediatric cancer** — high-throughput phenotypic drug screening across cancer models with few existing treatment options
-- 🔬 **Image-based profiling** — extracting rich, reproducible biological signals from microscopy images at scale
-- 🤖 **Machine learning for biology** — models that connect cell morphology to genetic, molecular, and disease states
-- 🛠️ **Open-source software** — reproducible tools that make high-content imaging data accessible to the broader research community
+- 🧬 **NF1 personalized medicine** — identifying morphology signatures of [Neurofibromatosis Type 1](https://github.com/WayScience/NF1_3D_organoid_profiling_pipeline) and running high-throughput drug screens to find compounds that restore a healthy phenotype for Neurofibromatosis Type 1 (NF1).
+- ❤️ **Cardiac fibrosis** — high-throughput drug screening using morphology .profiles of human cardiac fibroblasts to prioritize therapeutic candidates
+- 🎗️ **Pediatric cancer** — high-throughput phenotypic drug screening across multiple high-risk cancer types with few effective treatment options
+- 🔬 **Image-based profiling** — methods for processing rich, reproducible biological signals from microscopy images at scale.
+- 🤖 **Machine learning for biology** — models that connect cell morphology to genetic, molecular, and disease states to define phenotypic targets.
+- 🛠️ **Open-source software** — reproducible tools that make high-content imaging data accessible to the broader research community.
 
 ### NF1 patient-derived organoids — high-content imaging for drug discovery
 
 [Neurofibromatosis Type 1 (NF1)](https://www.nih.gov/news-events/nih-research-matters/understanding-neurofibromatosis-type-1) is a rare genetic disease with significant unmet therapeutic need.
-We use patient-derived organoid models combined with high-content microscopy and machine learning to identify morphological disease signatures and perform high-throughput drug screening — with the goal of enabling **personalized medicine** for NF1 patients.
+We use patient-derived organoid models combined with high-content microscopy and machine learning to identify morphological disease signatures and perform high-throughput drug screening — with the goal of enabling **personalized medicine** and **drug discovery** for NF1 patients.
 
-The z-stack below shows raw fluorescence channels alongside automated segmentation masks for a single NF1 organoid:
+The example 3D microscopy images below shows raw fluorescence channels alongside our segmentation masks for a single NF1 organoid:
 
 <table>
   <thead>
@@ -82,9 +82,9 @@ The z-stack below shows raw fluorescence channels alongside automated segmentati
   </tbody>
 </table>
 
-→ See the [NF1 organoid profiling pipeline](https://github.com/WayScience/NF1_3D_organoid_profiling_pipeline) for full analysis code and data
+→ See the [NF1 organoid profiling pipeline](https://github.com/WayScience/NF1_3D_organoid_profiling_pipeline) for full analysis code and data.
 
-**Extracting features from these organoids with:**
+**We extract 3D features from these organoids with:**
 
 <a href="https://github.com/WayScience/zedprofiler"><img src="https://raw.githubusercontent.com/WayScience/zedprofiler/main/logo/with-text-for-light-bg.png" width="200" alt="ZEDProfiler logo"></a>
 
@@ -93,7 +93,19 @@ It handles multi-channel volumetric data (DNA, ER, AGP, mitochondria), anisotrop
 
 ---
 
-## Key Projects
+### Cytomining
+
+<a href="https://cytomining.github.io/"><img src="https://raw.githubusercontent.com/cytomining/.github/main/profile/logo/with-text-for-light-bg.png" alt="Cytomining logo" width="300"></a>
+
+I lead and maintain the [Cytomining](https://github.com/cytomining) open-source ecosystem and am a member of the [CytoData](https://www.cytodata.org/) scientific community.
+
+- 💬 Join us on [Discord](https://discord.gg/dgEDz6xzfJ)
+- 🏫 Learn more at [cytodata.org](https://www.cytodata.org/)
+- 🌈 We follow a [Code of Conduct](https://github.com/cytomining/.github/blob/main/CODE_OF_CONDUCT.md)
+
+---
+
+#### Cytomining projects
 
 <table>
   <thead>
@@ -130,33 +142,21 @@ It handles multi-channel volumetric data (DNA, ER, AGP, mitochondria), anisotrop
 
 ---
 
-## Software Gardening
+## Open-source advocate: Co-Founder of Software Gardening
 
 <a href="https://software-gardening.github.io/almanack"><img src="https://raw.githubusercontent.com/software-gardening/almanack/main/src/book/assets/software-gardening-almanack-logo.png" alt="Software Gardening Almanack logo" width="300"></a>
 
 I co-founded [**Software Gardening**](https://software-gardening.github.io/almanack) — an ecosystem of applied guidance and tools for **sustainable software development and maintenance** in scientific computing.
-Software Gardening is supported by the Better Scientific Software program, the Sustainable Horizons Institute, the U.S. Department of Energy, and the National Science Foundation.
+Software Gardening is supported by the Better Scientific Software program and the Sustainable Horizons Institute.
 
 → [Explore the Software Gardening Almanack](https://software-gardening.github.io/almanack)
 → [Read the BSSw blog post](https://bssw.io/blog_posts/growing-resilient-scientific-software-ecosystems-introducing-the-software-gardening-almanack)
 
 ---
 
-## Cytomining
-
-<a href="https://cytomining.github.io/"><img src="https://raw.githubusercontent.com/cytomining/.github/main/profile/logo/with-text-for-light-bg.png" alt="Cytomining logo" width="300"></a>
-
-I contribute to and help maintain the [Cytomining](https://github.com/cytomining) open-source ecosystem and am a member of the [CytoData](https://www.cytodata.org/) scientific community.
-
-- 💬 Join us on [Discord](https://discord.gg/dgEDz6xzfJ)
-- 🏫 Learn more at [cytodata.org](https://www.cytodata.org/)
-- 🌈 We follow a [Code of Conduct](https://github.com/cytomining/.github/blob/main/CODE_OF_CONDUCT.md)
-
----
-
 ## Publications
 
-50+ peer-reviewed publications with **>10,000 citations** and an h-index of 25+, including work in *Nature*, *Nature Methods*, *Nature Communications*, *Cell*, *Science*, *Circulation*, *PNAS*, *eLife*, and *Cell Systems*. Research spans image-based profiling, machine learning for biology, cancer genomics, and open-source software.
+I have authored 50+ peer-reviewed publications, which include **>10,000 citations**, and an h-index of 25+, including work in *Nature*, *Cell*, *Science*, *Nature Methods*, *Nature Communications*, *Circulation*, *PNAS*, *eLife*, and *Cell Systems*. My research spans image-based profiling, machine learning for biology, cancer genomics, and open-source software.
 
 → [Full publication list on Google Scholar](https://scholar.google.com/citations?user=iDKZaA4AAAAJ&hl=en)
 
