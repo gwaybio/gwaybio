@@ -149,6 +149,33 @@ I contribute to and help maintain the [Cytomining](https://github.com/cytomining
 
 ---
 
+## Community Engagement
+
+### Advisory Boards
+
+| Organization | Role | Years |
+|---|---|---|
+| [Infixion Biosciences](https://infixionbio.com/) | Scientific Advisory Board | 2019 – Present |
+| [CytoData Society](https://www.cytodata.org/) | Operations Officer | 2020 – 2023 |
+| [Society of Biomolecular Imaging and Informatics](https://www.sbi2.org/) | Board of Directors | 2021 – 2023 |
+| [Neuroendocrine Tumor Research Foundation](https://netrf.org/) | Board of Scientific Advisors | 2024 – Present |
+| [Bio-protocol](https://bio-protocol.org/) | Scientific Advisory Board | 2025 – Present |
+
+### Editorial Boards
+
+| Journal | Role | Years |
+|---|---|---|
+| [SLAS Discovery](https://www.slas.org/slas-discovery/) | Guest Editor | 2023 |
+| [BMC Methods](https://bmcmethods.biomedcentral.com/) | Editorial Board | 2023 – Present |
+| [Glial Health Research](https://www.glial-health.com/) | Editorial Board | 2024 – Present |
+| [Bio-protocol](https://bio-protocol.org/) | Editorial Board | 2025 – Present |
+
+### Peer Review
+
+Ad-hoc reviewer for *Nature*, *Science*, *PNAS*, *Cell*, *Nature Communications*, *Nature Methods*, *Nature Reviews Genetics*, *Cell Systems*, *Genome Medicine*, *Journal of the National Cancer Institute*, *Patterns*, *Bioinformatics*, *PLoS Computational Biology*, and others. Full list on [Google Scholar](https://scholar.google.com/citations?user=iDKZaA4AAAAJ&hl=en).
+
+---
+
 ## Funding
 
 This work is generously supported by:
