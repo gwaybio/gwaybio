@@ -38,6 +38,39 @@ My lab develops computational methods and open-source software to analyze high-c
 - 🤖 **Machine learning for biology** — models that connect cell morphology to genetic, molecular, and disease states
 - 🛠️ **Open-source software** — reproducible tools that make high-content imaging data accessible to the broader research community
 
+### NF1 organoid imaging — z-stack example
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">DNA (405nm)</th>
+      <th align="center">ER (488nm)</th>
+      <th align="center">AGP (555nm)</th>
+      <th align="center">Mitochondria (640nm)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><img src="media/organoids/dna.gif" width="160" alt="DNA channel z-stack"></td>
+      <td align="center"><img src="media/organoids/er.gif" width="160" alt="ER channel z-stack"></td>
+      <td align="center"><img src="media/organoids/agp.gif" width="160" alt="AGP channel z-stack"></td>
+      <td align="center"><img src="media/organoids/mito.gif" width="160" alt="Mitochondria channel z-stack"></td>
+    </tr>
+    <tr>
+      <th align="center">Nuclei mask</th>
+      <th align="center">Cell mask</th>
+      <th align="center">Cytoplasm mask</th>
+      <th align="center">Organoid mask</th>
+    </tr>
+    <tr>
+      <td align="center"><img src="media/organoids/mask_nuclei.gif" width="160" alt="Nuclei segmentation mask"></td>
+      <td align="center"><img src="media/organoids/mask_cell.gif" width="160" alt="Cell segmentation mask"></td>
+      <td align="center"><img src="media/organoids/mask_cytoplasm.gif" width="160" alt="Cytoplasm segmentation mask"></td>
+      <td align="center"><img src="media/organoids/mask_organoid.gif" width="160" alt="Organoid segmentation mask"></td>
+    </tr>
+  </tbody>
+</table>
+
 ### Underlying hypothesis
 
 > Cell morphology encodes disease state. By comparing morphological profiles of healthy (wild-type) cells against diseased cells — for example, identifying the phenotypic signature that distinguishes NF1-null Schwann cells from wild-type — we define **phenotypic targets** to screen against. This approach is complementary to gene-target-based drug discovery, and may better capture where disease actually manifests at the cellular level. We then screen large compound libraries against these phenotypic signatures to find drugs that restore healthy morphology.
