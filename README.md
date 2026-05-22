@@ -139,13 +139,21 @@ Software Gardening is supported by the Better Scientific Software program, the S
 
 ---
 
-## Community
+## <a href="https://cytomining.github.io/"><img src="https://raw.githubusercontent.com/cytomining/.github/main/profile/logo/with-text-for-light-bg.png" alt="Cytomining" height="32" align="center"></a>
 
 I contribute to and help maintain the [Cytomining](https://github.com/cytomining) open-source ecosystem and am a member of the [CytoData](https://www.cytodata.org/) scientific community.
 
 - 💬 Join us on [Discord](https://discord.gg/dgEDz6xzfJ)
 - 🏫 Learn more at [cytodata.org](https://www.cytodata.org/)
 - 🌈 We follow a [Code of Conduct](https://github.com/cytomining/.github/blob/main/CODE_OF_CONDUCT.md)
+
+---
+
+## Publications
+
+50+ peer-reviewed publications with **>10,000 citations** (h-index: 27), including work in *Nature*, *Nature Methods*, *Nature Communications*, *Cell*, *Science*, *Circulation*, *PNAS*, *eLife*, and *Cell Systems*. Research spans image-based profiling, machine learning for biology, cancer genomics, and open-source software.
+
+→ [Full publication list on Google Scholar](https://scholar.google.com/citations?user=iDKZaA4AAAAJ&hl=en)
 
 ---
 
@@ -172,7 +180,7 @@ I contribute to and help maintain the [Cytomining](https://github.com/cytomining
 
 ### Peer Review
 
-Ad-hoc reviewer for *Nature*, *Science*, *PNAS*, *Cell*, *Nature Communications*, *Nature Methods*, *Nature Reviews Genetics*, *Cell Systems*, *Genome Medicine*, *Journal of the National Cancer Institute*, *Patterns*, *Bioinformatics*, *PLoS Computational Biology*, and others. Full list on [Google Scholar](https://scholar.google.com/citations?user=iDKZaA4AAAAJ&hl=en).
+Ad-hoc reviewer for *Nature*, *Science*, *PNAS*, *Cell*, *Nature Communications*, *Nature Methods*, *Nature Reviews Genetics*, *Cell Systems*, *Genome Medicine*, *Journal of the National Cancer Institute*, *Patterns*, *Bioinformatics*, *PLoS Computational Biology*, and others.
 
 ---
 
