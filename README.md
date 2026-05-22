@@ -46,7 +46,7 @@ My lab develops computational methods and open-source software to analyze high-c
 
 ### NF1 patient-derived organoids — high-content imaging for drug discovery
 
-[Neurofibromatosis Type 1 (NF1)](https://www.nih.gov/news-events/nih-research-matters/understanding-neurofibromatosis-type-1) is a rare genetic disease with significant unmet therapeutic need.
+[Neurofibromatosis Type 1 (NF1)](https://www.nih.gov/news-events/nih-research-matters/understanding-neurofibromatosis-type-1) is a genetic disease impacting 1 in 2,500 people, with significant unmet therapeutic need.
 We use patient-derived organoid models combined with high-content microscopy and machine learning to identify morphological disease signatures and perform high-throughput drug screening — with the goal of enabling **personalized medicine** and **drug discovery** for NF1 patients.
 
 The example 3D microscopy images below shows raw fluorescence channels alongside our segmentation masks for a single NF1 organoid:
