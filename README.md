@@ -1,8 +1,8 @@
-# Hi, I'm Gregory Way <img src="https://raw.githubusercontent.com/WayScience/waysciencelab.com/main/images/default_logo.svg" width="36" alt="Way Science Lab icon" align="center">
+# Hi, I'm Gregory Way <img src="https://raw.githubusercontent.com/WayScience/waysciencelab.com/main/favicons/ios.png" width="36" alt="Way Science Lab icon" align="center">
 
 > **My mission is** to reduce human suffering. We accomplish this using biomedical data science.
 
-I'm an Assistant Professor in the [Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi) and a member of the [Center for Health AI](https://medschool.cuanschutz.edu/ai) at the [University of Colorado Anschutz](https://medschool.cuanschutz.edu/), where I am the Principal Investigator the [Way Science Lab](https://www.waysciencelab.com).
+I'm an Assistant Professor in the [Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi) and a member of the [Center for Health AI](https://medschool.cuanschutz.edu/ai) at the [University of Colorado Anschutz](https://medschool.cuanschutz.edu/), where I am the Principal Investigator of the [Way Science Lab](https://www.waysciencelab.com).
 
 [![Website](https://img.shields.io/badge/website-waysciencelab.com-4A90D9?style=flat-square&logo=firefox)](https://www.waysciencelab.com)
 [![Cytomining](https://img.shields.io/badge/cytomining-github.io-2E8B57?style=flat-square&logo=github)](https://cytomining.github.io/)
