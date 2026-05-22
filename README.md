@@ -88,7 +88,7 @@ The example 3D microscopy images below shows raw fluorescence channels alongside
 
 <a href="https://github.com/WayScience/zedprofiler"><img src="https://raw.githubusercontent.com/WayScience/zedprofiler/main/logo/with-text-for-light-bg.png" width="200" alt="ZEDProfiler logo"></a>
 
-[ZEDProfiler](https://github.com/WayScience/zedprofiler) is a CPU-first toolkit for 3D image feature extraction built specifically for high-content organoid profiling.
+We developed [ZEDProfiler](https://github.com/WayScience/zedprofiler) as a CPU-first toolkit for 3D image feature extraction built specifically for high-content NF organoid profiling.
 It handles multi-channel volumetric data (DNA, ER, AGP, mitochondria), anisotropic voxel spacing, and multiple segmentation compartments (nuclei, cytoplasm, whole cell, organoid) — computing the morphological measurements that feed directly into our drug screening pipeline.
 
 ---
@@ -146,7 +146,7 @@ I lead and maintain the [Cytomining](https://github.com/cytomining) open-source 
 
 <a href="https://software-gardening.github.io/almanack"><img src="https://raw.githubusercontent.com/software-gardening/almanack/main/src/book/assets/software-gardening-almanack-logo.png" alt="Software Gardening Almanack logo" width="300"></a>
 
-I co-founded [**Software Gardening**](https://software-gardening.github.io/almanack) — an ecosystem of applied guidance and tools for **sustainable software development and maintenance** in scientific computing.
+Co-founded with [Dave Bunten](https://github.com/d33bs), [**Software Gardening**](https://software-gardening.github.io/almanack) is an ecosystem of applied guidance and tools for **sustainable software development and maintenance** in scientific computing.
 Software Gardening is supported by the Better Scientific Software program and the Sustainable Horizons Institute.
 
 → [Explore the Software Gardening Almanack](https://software-gardening.github.io/almanack)
