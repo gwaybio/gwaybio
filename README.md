@@ -1,8 +1,8 @@
 # Hi, I'm Greg Way <img src="https://raw.githubusercontent.com/WayScience/waysciencelab.com/main/images/default_logo.svg" width="36" alt="Way Science Lab icon" align="center">
 
-I'm an Assistant Professor in the [Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi) at the University of Colorado Anschutz Medical Campus, where I lead the [Way Science Lab](https://www.waysciencelab.com).
+> **Mission:** Reduce human suffering through biomedical data science.
 
-My research sits at the intersection of **data science**, **machine learning**, and **cell biology** — developing open-source computational tools and applying them to understand cell morphology, genomics, and the mechanisms underlying cancer and rare disease.
+I'm an Assistant Professor in the [Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi) and a member of the [Center for Health AI](https://medschool.cuanschutz.edu/ai) at the [University of Colorado Anschutz Medical Campus](https://medschool.cuanschutz.edu/), where I lead the [Way Science Lab](https://www.waysciencelab.com).
 
 [![Website](https://img.shields.io/badge/website-waysciencelab.com-4A90D9?style=flat-square&logo=firefox)](https://www.waysciencelab.com)
 [![Cytomining](https://img.shields.io/badge/cytomining-github.io-2E8B57?style=flat-square&logo=github)](https://cytomining.github.io/)
@@ -12,13 +12,28 @@ My research sits at the intersection of **data science**, **machine learning**, 
 
 ---
 
+## Highlights
+
+| | |
+|---|---|
+| 🎓 **Ph.D.** | [Genomics & Computational Biology](https://www.med.upenn.edu/gcb/), [University of Pennsylvania](https://www.upenn.edu/) |
+| 🔬 **Postdoc** | [Imaging Platform](https://www.broadinstitute.org/imaging), [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/) |
+| 🏫 **Faculty** | Assistant Professor, [University of Colorado Anschutz](https://medschool.cuanschutz.edu/dbmi) (2021–present) |
+| 🌱 **Co-founder** | [Software Gardening](https://software-gardening.github.io) — sustainable software development practices |
+| 🔭 **Org lead** | [Cytomining](https://cytomining.github.io/) — open-source ecosystem for image-based profiling |
+
+---
+
 ## Research
 
-- 🔬 **Image-based profiling** — extracting biological signals from microscopy images of cells at scale
-- 🤖 **Machine learning for biology** — building models that connect cell morphology to genetic and disease states
-- 🧬 **NF1 personalized medicine** — using patient-derived organoid models and phenotypic drug screening to identify therapeutic candidates for [Neurofibromatosis type 1](https://github.com/WayScience/NF1_3D_organoid_profiling_pipeline); see [publications](https://scholar.google.com/citations?user=iDKZaA4AAAAJ&hl=en)
-- ❤️ **Cardiac fibrosis & pediatric cancer** — _in vitro_ and organoid-based drug screening for diseases with few treatment options
-- 🛠️ **Open-source software** — tools that make high-content imaging data accessible to the broader community
+My lab develops computational methods and open-source software to analyze high-content microscopy images of cells, partnering with collaborators worldwide on innovative assays for drug discovery and translational research. Our disease focus spans:
+
+- 🧬 **NF1 personalized medicine** — patient-derived organoid models and phenotypic drug screening to identify therapeutic candidates for [Neurofibromatosis Type 1](https://github.com/WayScience/NF1_3D_organoid_profiling_pipeline); see [publications](https://scholar.google.com/citations?user=iDKZaA4AAAAJ&hl=en)
+- ❤️ **Cardiac fibrosis** — _in vitro_ and organoid-based screening for cardiac disease with limited treatment options
+- 🎗️ **Pediatric cancer** — morphological profiling and drug screening for cancers with few therapeutic options
+- 🔬 **Image-based profiling** — extracting rich biological signals from microscopy images at scale
+- 🤖 **Machine learning for biology** — models connecting cell morphology to genetic and disease states
+- 🛠️ **Open-source software** — reproducible tools that make high-content imaging data accessible to all
 
 ---
 
@@ -59,10 +74,18 @@ My research sits at the intersection of **data science**, **machine learning**, 
 
 ---
 
+## Software Gardening
+
+I co-founded [**Software Gardening**](https://software-gardening.github.io) — an ecosystem of applied guidance and tools for **sustainable software development and maintenance** in scientific computing.
+Software Gardening is supported by the Better Scientific Software program, the Sustainable Horizons Institute, the U.S. Department of Energy, and the National Science Foundation.
+
+→ [Explore the Software Gardening Almanack](https://software-gardening.github.io)
+
+---
+
 ## Community
 
-I contribute to and help maintain the [Cytomining](https://github.com/cytomining) open-source ecosystem, and am a member of the [CytoData](https://www.cytodata.org/) scientific community.
-I also co-founded [Software Gardening](https://software-gardening.github.io) — an ecosystem of applied guidance and tools for sustainable software development and maintenance.
+I contribute to and help maintain the [Cytomining](https://github.com/cytomining) open-source ecosystem and am a member of the [CytoData](https://www.cytodata.org/) scientific community.
 
 - 💬 Join us on [Discord](https://discord.gg/dgEDz6xzfJ)
 - 🏫 Learn more at [cytodata.org](https://www.cytodata.org/)
