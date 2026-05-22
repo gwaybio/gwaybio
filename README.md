@@ -78,6 +78,13 @@ The z-stack below shows raw fluorescence channels alongside automated segmentati
 
 → See the [NF1 organoid profiling pipeline](https://github.com/WayScience/NF1_3D_organoid_profiling_pipeline) for full analysis code and data
 
+**Extracting features from these organoids with:**
+
+<a href="https://github.com/WayScience/zedprofiler"><img src="https://raw.githubusercontent.com/WayScience/zedprofiler/main/logo/with-text-for-light-bg.png" width="200" alt="ZEDProfiler logo"></a>
+
+[ZEDProfiler](https://github.com/WayScience/zedprofiler) is a CPU-first toolkit for 3D image feature extraction built specifically for high-content organoid profiling.
+It handles multi-channel volumetric data (DNA, ER, AGP, mitochondria), anisotropic voxel spacing, and multiple segmentation compartments (nuclei, cytoplasm, whole cell, organoid) — computing the morphological measurements that feed directly into our drug screening pipeline.
+
 ### Underlying hypothesis
 
 > Cell morphology encodes disease state. By comparing morphological profiles of healthy (wild-type) cells against diseased cells — for example, identifying the phenotypic signature that distinguishes NF1-null Schwann cells from wild-type — we define **phenotypic targets** to screen against. This approach is complementary to gene-target-based drug discovery, and may better capture where disease actually manifests at the cellular level. We then screen large compound libraries against these phenotypic signatures to find drugs that restore healthy morphology.
