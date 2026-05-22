@@ -19,8 +19,8 @@ I'm an Assistant Professor in the [Department of Biomedical Informatics](https:/
 | 🎓 **Ph.D.** | [Genomics & Computational Biology](https://www.med.upenn.edu/gcb/), [University of Pennsylvania](https://www.upenn.edu/) |
 | 🔬 **Postdoc** | [Imaging Platform](https://www.broadinstitute.org/imaging), [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/) |
 | 🏫 **Faculty** | Assistant Professor, [University of Colorado Anschutz](https://medschool.cuanschutz.edu/dbmi) (2021–present) |
-| 👩‍🔬 **Lab** | Seven scientists across computational biology, data science, and biomedical informatics |
-| 🎓 **Training** | Mentoring Ph.D. students, postdocs, and undergraduate researchers in open science practices |
+| 👩‍🔬 **Lab** | Seven scientists spanning data science, AI, machine learning, cell biology, and biomedical informatics |
+| 🎓 **Training** | Mentoring Ph.D. students, postdocs, and undergraduate researchers across disciplines in open science practices |
 | 📚 **Teaching** | Developed [CPBS7601](https://github.com/WayScience/CPBS7601) — *Maximizing Reproducibility in Computational Biology* at CU Anschutz |
 | 🌱 **Co-founder** | [Software Gardening](https://software-gardening.github.io) — sustainable software practices for scientific computing |
 | 🔭 **Org lead** | [Cytomining](https://cytomining.github.io/) — open-source ecosystem for image-based profiling |
@@ -78,21 +78,6 @@ My lab develops computational methods and open-source software to analyze high-c
 </table>
 
 → See the full [Cytomining ecosystem](https://cytomining.github.io/) for more tools and projects.
-
----
-
-## Selected Publications
-
-| Paper | Journal | Year |
-|-------|---------|------|
-| [Reproducible image-based profiling with Pycytominer](https://doi.org/g863nc) | *Nature Methods* | 2025 |
-| [A genome-wide atlas of human cell morphology](https://doi.org/g826g9) | *Nature Methods* | 2025 |
-| [Cell Painting and Machine Learning Distinguish Fibroblasts From Nonfailing and Failing Human Hearts](https://doi.org/g9wt6s) | *Circulation* | 2025 |
-| [High-content microscopy and ML characterize a cell morphology signature of NF1 genotype in Schwann cells](https://doi.org/g863nd) | *bioRxiv* | 2024 |
-| [Oncogenic signaling pathways in The Cancer Genome Atlas](https://doi.org/10.1016/j.cell.2018.03.035) | *Cell* (~3,500 citations) | 2018 |
-| [Opportunities and obstacles for deep learning in biology and medicine](https://doi.org/10.1098/rsif.2017.0387) | *J. Royal Society Interface* (~3,000 citations) | 2018 |
-
-→ Full list on [Google Scholar](https://scholar.google.com/citations?user=iDKZaA4AAAAJ&hl=en)
 
 ---
 
