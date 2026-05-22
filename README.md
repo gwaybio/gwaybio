@@ -139,7 +139,9 @@ Software Gardening is supported by the Better Scientific Software program, the S
 
 ---
 
-## <a href="https://cytomining.github.io/"><img src="https://raw.githubusercontent.com/cytomining/.github/main/profile/logo/with-text-for-light-bg.png" alt="Cytomining" height="32" align="center"></a>
+## Cytomining
+
+<a href="https://cytomining.github.io/"><img src="https://raw.githubusercontent.com/cytomining/.github/main/profile/logo/with-text-for-light-bg.png" alt="Cytomining logo" width="300"></a>
 
 I contribute to and help maintain the [Cytomining](https://github.com/cytomining) open-source ecosystem and am a member of the [CytoData](https://www.cytodata.org/) scientific community.
 
@@ -151,7 +153,7 @@ I contribute to and help maintain the [Cytomining](https://github.com/cytomining
 
 ## Publications
 
-50+ peer-reviewed publications with **>10,000 citations** (h-index: 27), including work in *Nature*, *Nature Methods*, *Nature Communications*, *Cell*, *Science*, *Circulation*, *PNAS*, *eLife*, and *Cell Systems*. Research spans image-based profiling, machine learning for biology, cancer genomics, and open-source software.
+50+ peer-reviewed publications with an **h-index of 25+**, including work in *Nature*, *Nature Methods*, *Nature Communications*, *Cell*, *Science*, *Circulation*, *PNAS*, *eLife*, and *Cell Systems*. Research spans image-based profiling, machine learning for biology, cancer genomics, and open-source software.
 
 → [Full publication list on Google Scholar](https://scholar.google.com/citations?user=iDKZaA4AAAAJ&hl=en)
 
@@ -186,7 +188,7 @@ Ad-hoc reviewer for *Nature*, *Science*, *PNAS*, *Cell*, *Nature Communications*
 
 ## Funding
 
-This work is generously supported by:
+This work is supported by:
 
 <table>
   <tbody>
