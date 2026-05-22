@@ -132,10 +132,13 @@ It handles multi-channel volumetric data (DNA, ER, AGP, mitochondria), anisotrop
 
 ## Software Gardening
 
-I co-founded [**Software Gardening**](https://software-gardening.github.io) — an ecosystem of applied guidance and tools for **sustainable software development and maintenance** in scientific computing.
+<a href="https://software-gardening.github.io/almanack"><img src="https://raw.githubusercontent.com/software-gardening/almanack/main/src/book/assets/software-gardening-almanack-logo.png" alt="Software Gardening Almanack logo" width="300"></a>
+
+I co-founded [**Software Gardening**](https://software-gardening.github.io/almanack) — an ecosystem of applied guidance and tools for **sustainable software development and maintenance** in scientific computing.
 Software Gardening is supported by the Better Scientific Software program, the Sustainable Horizons Institute, the U.S. Department of Energy, and the National Science Foundation.
 
-→ [Explore the Software Gardening Almanack](https://software-gardening.github.io)
+→ [Explore the Software Gardening Almanack](https://software-gardening.github.io/almanack)
+→ [Read the BSSw blog post](https://bssw.io/blog_posts/growing-resilient-scientific-software-ecosystems-introducing-the-software-gardening-almanack)
 
 ---
 
@@ -153,7 +156,7 @@ I contribute to and help maintain the [Cytomining](https://github.com/cytomining
 
 ## Publications
 
-50+ peer-reviewed publications with an **h-index of 25+**, including work in *Nature*, *Nature Methods*, *Nature Communications*, *Cell*, *Science*, *Circulation*, *PNAS*, *eLife*, and *Cell Systems*. Research spans image-based profiling, machine learning for biology, cancer genomics, and open-source software.
+50+ peer-reviewed publications with **>10,000 citations** and an h-index of 25+, including work in *Nature*, *Nature Methods*, *Nature Communications*, *Cell*, *Science*, *Circulation*, *PNAS*, *eLife*, and *Cell Systems*. Research spans image-based profiling, machine learning for biology, cancer genomics, and open-source software.
 
 → [Full publication list on Google Scholar](https://scholar.google.com/citations?user=iDKZaA4AAAAJ&hl=en)
 
